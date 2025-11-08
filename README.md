@@ -19,7 +19,7 @@ int calculate(TFun prtf, double *x, int n);
 ```
 
 
-4. Инициализация:
+4. Инициализация переменных:
 
 ```c
 int n = 10;
